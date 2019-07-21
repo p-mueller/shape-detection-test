@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab97f8ae.chunk.css",
-    "main.js": "/static/js/main.a3faa258.chunk.js",
-    "main.js.map": "/static/js/main.a3faa258.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.ccbf4cb7.chunk.js": "/static/js/2.ccbf4cb7.chunk.js",
-    "static/js/2.ccbf4cb7.chunk.js.map": "/static/js/2.ccbf4cb7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.26b33551e74cdec29ec4c821591f1b0b.js": "/precache-manifest.26b33551e74cdec29ec4c821591f1b0b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ab97f8ae.chunk.css.map": "/static/css/main.ab97f8ae.chunk.css.map"
+    "main.css": "/shape-detection-test/static/css/main.ab97f8ae.chunk.css",
+    "main.js": "/shape-detection-test/static/js/main.5e08418f.chunk.js",
+    "main.js.map": "/shape-detection-test/static/js/main.5e08418f.chunk.js.map",
+    "runtime~main.js": "/shape-detection-test/static/js/runtime~main.875092d1.js",
+    "runtime~main.js.map": "/shape-detection-test/static/js/runtime~main.875092d1.js.map",
+    "static/js/2.ccbf4cb7.chunk.js": "/shape-detection-test/static/js/2.ccbf4cb7.chunk.js",
+    "static/js/2.ccbf4cb7.chunk.js.map": "/shape-detection-test/static/js/2.ccbf4cb7.chunk.js.map",
+    "index.html": "/shape-detection-test/index.html",
+    "precache-manifest.b662811bcdba7a5db70890f895ca212e.js": "/shape-detection-test/precache-manifest.b662811bcdba7a5db70890f895ca212e.js",
+    "service-worker.js": "/shape-detection-test/service-worker.js",
+    "static/css/main.ab97f8ae.chunk.css.map": "/shape-detection-test/static/css/main.ab97f8ae.chunk.css.map"
   }
 }
