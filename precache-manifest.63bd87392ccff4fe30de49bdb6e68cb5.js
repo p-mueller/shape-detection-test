@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8238083bb5a37c795d60470f0fc047b7",
+    "revision": "8b079b898867d9d40a5ccab676757099",
     "url": "/shape-detection-test/index.html"
   },
   {
