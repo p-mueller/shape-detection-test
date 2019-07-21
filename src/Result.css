@@ -1,0 +1,12 @@
+.Result {
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Result > .scan-again-link {
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
