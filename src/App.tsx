@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route} from "react-router-dom";
+import {BrowserRouter, Route} from "react-router-dom";
 import {Start} from "./Start";
 import {ScanQrCode} from "./ScanQrCode";
 import {Result} from "./Result";
@@ -23,7 +23,7 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <Router>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div className="App-container">
           <Route exact path="/" component={Start}/>
 
@@ -32,7 +32,7 @@ export default class App extends React.Component {
 
           <Route path="/result" render={props => <Result {...props} qrData={this.state.qrData}/>}/>
         </div>
-      </Router>
+      </BrowserRouter>
     )
   }
 

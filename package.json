@@ -2,6 +2,7 @@
   "name": "shape-detection-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/shape-detection-test/",
   "dependencies": {
     "@material-ui/core": "^4.2.0",
     "@types/jest": "24.0.15",

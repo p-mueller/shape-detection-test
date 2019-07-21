@@ -8,7 +8,7 @@ export const Start: React.FunctionComponent = (props) => {
   const isSupported = !!(window as any).BarcodeDetector;
 
   const notSupportedText = <p className="error">
-    Your browser does not support Shape Detection API. If you are using chrome on android enable
+    Your browser does not support Shape Detection API. If you are using Chrome on Android enable
     Experimental Web Platform features.
   </p>;
 
