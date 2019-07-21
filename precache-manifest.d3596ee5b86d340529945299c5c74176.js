@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b079b898867d9d40a5ccab676757099",
+    "revision": "074e1fa9bc1f3b7ba7d544444ed0cd53",
     "url": "/shape-detection-test/index.html"
   },
   {
-    "revision": "ac780852a0d308405ffb",
+    "revision": "0f3aa649dafdc02977f3",
     "url": "/shape-detection-test/static/css/main.ab97f8ae.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shape-detection-test/static/js/2.ccbf4cb7.chunk.js"
   },
   {
-    "revision": "ac780852a0d308405ffb",
-    "url": "/shape-detection-test/static/js/main.5e08418f.chunk.js"
+    "revision": "0f3aa649dafdc02977f3",
+    "url": "/shape-detection-test/static/js/main.a46e4c1b.chunk.js"
   },
   {
     "revision": "c37ad46289fadd00bae1",

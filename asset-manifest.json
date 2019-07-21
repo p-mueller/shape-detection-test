@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shape-detection-test/static/css/main.ab97f8ae.chunk.css",
-    "main.js": "/shape-detection-test/static/js/main.5e08418f.chunk.js",
-    "main.js.map": "/shape-detection-test/static/js/main.5e08418f.chunk.js.map",
+    "main.js": "/shape-detection-test/static/js/main.a46e4c1b.chunk.js",
+    "main.js.map": "/shape-detection-test/static/js/main.a46e4c1b.chunk.js.map",
     "runtime~main.js": "/shape-detection-test/static/js/runtime~main.875092d1.js",
     "runtime~main.js.map": "/shape-detection-test/static/js/runtime~main.875092d1.js.map",
     "static/js/2.ccbf4cb7.chunk.js": "/shape-detection-test/static/js/2.ccbf4cb7.chunk.js",
     "static/js/2.ccbf4cb7.chunk.js.map": "/shape-detection-test/static/js/2.ccbf4cb7.chunk.js.map",
     "index.html": "/shape-detection-test/index.html",
-    "precache-manifest.63bd87392ccff4fe30de49bdb6e68cb5.js": "/shape-detection-test/precache-manifest.63bd87392ccff4fe30de49bdb6e68cb5.js",
+    "precache-manifest.d3596ee5b86d340529945299c5c74176.js": "/shape-detection-test/precache-manifest.d3596ee5b86d340529945299c5c74176.js",
     "service-worker.js": "/shape-detection-test/service-worker.js",
     "static/css/main.ab97f8ae.chunk.css.map": "/shape-detection-test/static/css/main.ab97f8ae.chunk.css.map"
   }
